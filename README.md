@@ -1,2 +1,2 @@
 # Project_Euler
-Project Euler \url{https://projecteuler.net/} challenges using Python
+Project Euler https://projecteuler.net challenges using Python
